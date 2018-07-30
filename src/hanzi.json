@@ -1,0 +1,98 @@
+[
+    {
+      "id": 1,
+      "name": "Hello",
+      "image": "./public/assets/Img/Hello.png",
+      "pinyin": "Ni Hao",
+      "strokes": "13",
+      "click": false
+    },
+    {
+      "id": 2,
+      "name": "Good",
+      "image": "./public/assets/Img/Good.png",
+      "pinyin": "Hao",
+      "strokes": "6",
+      "click": false
+    },
+    {
+      "id": 3,
+      "name": "Goodbye",
+      "image": "./public/assets/Img/Goodbye.png",
+      "pinyin": "Zaijin",
+      "strokes": "10",
+      "click": false
+    },
+    {
+      "id": 4,
+      "name": "American",
+      "image": "./public/assets/Img/American.png",
+      "pinyin": "Meiguo",
+      "strokes": "17",
+      "click": false
+    },
+    {
+      "id": 5,
+      "name": "Me",
+      "image": "./public/assets/Img/Me.png",
+      "pinyin": "Wo",
+      "strokes": "8",
+      "click": false
+    },
+    {
+      "id": 6,
+      "name": "No",
+      "image": "./public/assets/Img/No.png",
+      "pinyin": "Meiyou",
+      "strokes": "14",
+      "click": false
+    },
+    {
+      "id": 7,
+      "name": "Friend",
+      "image": "./public/assets/Img/Friend.png",
+      "pinyin": "Pengyou",
+      "strokes": "13",
+      "click": false
+    },
+    {
+      "id": 8,
+      "name": "Mama",
+      "image": "./public/assets/Img/Mama.png",
+      "pinyin": "Mom",
+      "strokes": "12",
+      "click": false
+    },
+    {
+      "id": 9,
+      "name": "Dad",
+      "image": "./public/assets/Img/Dad.png",
+      "pinyin": "Ba",
+      "strokes": "8",
+      "click": false
+    },
+    {
+      "id": 10,
+      "name": "Love",
+      "image": "./public/assets/Img/Love.png",
+      "pinyin": "Ai",
+      "strokes": "11",
+      "click": false
+    },
+    {
+      "id": 11,
+      "name": "Yes",
+      "image": "./public/assets/Img/Yes.png",
+      "pinyin": "Shi",
+      "strokes": "9",
+      "click": false
+    },
+    {
+      "id": 12,
+      "name": "Like",
+      "image": "./public/assets/Img/Like.png",
+      "pinyin": "Xihuan",
+      "strokes": "18",
+      "click": false
+    }
+  ]
