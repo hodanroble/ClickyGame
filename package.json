@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/hodanroble/ClickyGame/issues"
   },
-  "homepage": "https://github.com/hodanroble/ClickyGame#readme"
+  "homepage": "https://github.com/hodanroble/ClickyGame#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2",
+    "start": "^5.1.0",
+    "upgrade": "^1.1.0",
+    "yarn": "^1.9.2"
+  }
 }
